@@ -5,7 +5,7 @@ import seaborn as sns
 # CONFIGURATION
 
 # Replace with your OpenWeatherMap API key
-API_KEY = "f328b6925654a08da660d38e137f747c"  # <-- Change this!
+API_KEY = "ENTER_YOUR_API_KEY_HERE"  # <-- Change this!
 
 # City for weather data
 CITY = "Deoghar,INDIA"
